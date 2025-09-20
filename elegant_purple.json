@@ -1,0 +1,71 @@
+{
+  "CTkFont": {
+    "family": "Segoe UI",
+    "size": 14,
+    "weight": "normal",
+    "slant": "roman",
+    "underline": 0,
+    "overstrike": 0
+  },
+  "CTk": {
+    "fg_color": ["#2E234F", "#2E234F"]
+  },
+  "CTkFrame": {
+    "fg_color": ["#413A6A", "#413A6A"],
+    "top_fg_color": ["#2E234F", "#2E234F"],
+    "border_color": ["#5A5280", "#5A5280"],
+    "border_width": 0,
+    "corner_radius": 8
+  },
+  "CTkButton": {
+    "fg_color": ["#6A5ACD", "#6A5ACD"],
+    "hover_color": ["#7B68EE", "#7B68EE"],
+    "border_color": ["#8A7ADF", "#8A7ADF"],
+    "text_color": ["#FFFFFF", "#FFFFFF"],
+    "text_color_disabled": ["#909090", "#909090"],
+    "background_corner_colors": ["#2E234F", "#2E234F", "#413A6A", "#413A6A"],
+    "border_width": 0,
+    "corner_radius": 6
+  },
+  "CTkEntry": {
+    "fg_color": ["#3B325E", "#3B325E"],
+    "border_color": ["#6A5ACD", "#6A5ACD"],
+    "text_color": ["#E0E0E0", "#E0E0E0"],
+    "placeholder_text_color": ["#A0A0A0", "#A0A0A0"],
+    "border_width": 2,
+    "corner_radius": 6
+  },
+  "CTkLabel": {
+    "text_color": ["#E0E0E0", "#E0E0E0"],
+    "corner_radius": 0
+  },
+  "CTkTextbox": {
+    "fg_color": ["#3B325E", "#3B325E"],
+    "text_color": ["#E0E0E0", "#E0E0E0"],
+    "scrollbar_button_color": ["#6A5ACD", "#6A5ACD"],
+    "scrollbar_button_hover_color": ["#7B68EE", "#7B68EE"],
+    "border_width": 2,
+    "corner_radius": 6
+  },
+  "CTkScrollableFrame": {
+    "label_fg_color": ["#413A6A", "#413A6A"],
+    "label_text_color": ["#E0E0E0", "#E0E0E0"],
+    "corner_radius": 8
+  },
+  "CTkOptionMenu": {
+    "fg_color": ["#6A5ACD", "#6A5ACD"],
+    "button_color": ["#6A5ACD", "#6A5ACD"],
+    "button_hover_color": ["#7B68EE", "#7B68EE"],
+    "text_color": ["#FFFFFF", "#FFFFFF"],
+    "text_color_disabled": ["#909090", "#909090"],
+    "dropdown_fg_color": ["#413A6A", "#413A6A"],
+    "dropdown_hover_color": ["#7B68EE", "#7B68EE"],
+    "dropdown_text_color": ["#E0E0E0", "#E0E0E0"],
+    "corner_radius": 6
+  },
+  "CTkScrollbar": {
+    "fg_color": ["#413A6A", "#413A6A"],
+    "button_color": ["#6A5ACD", "#6A5ACD"],
+    "button_hover_color": ["#7B68EE", "#7B68EE"]
+  }
+}
